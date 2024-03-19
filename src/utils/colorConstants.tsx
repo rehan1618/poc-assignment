@@ -1,0 +1,14 @@
+export const SideDrawerBackground = "#052e2b";
+export const SideDrawerIcons = "#60d068";
+export const SideDrawerAddIconsBg = "#006544";
+export const SideDrawerContainerIconsBg = "#00504b";
+export const searchCardIconsTextBg = "#a5e3a3";
+export const searchCardTextFieldBg = "#e1dbd2";
+export const searchCardBg = "#f2eeeb";
+export const loremIpsumBadgeBg = "#80e7ff";
+export const loremIpsumIcon = "#11588c";
+export const orderCardBg = "#e8eced";
+export const serviceAndDateText = "#8c9ca2";
+export const paperBgColor = "#eff1f1";
+export const summaryHeaderBgColor = "#e8eced";
+export const summaryHeaderTextColor = "#85969c";
